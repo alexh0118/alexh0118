@@ -17,8 +17,6 @@ Que tal mi nombre es Javier Henriquez, curso la carrera de Ingeniería Mecatroni
 
 [Javier Henriquez](https://www.youtube.com/channel/UCz2kmzQzR7pmDeffjq23vDg/featured?view_as=subscriber)
 
-## Autor✒️
 
-**Javier Henriquez**  
 
 
