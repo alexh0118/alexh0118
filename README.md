@@ -1,6 +1,6 @@
 # Hola  👋
-
-
+Que tal mi nombre es Javier Henriquez, curso la carrera de Ingeniería Mecatronica en la Universidad Latina de Panamá
+ 
 # Inteligencia Artificial (ULAT)
 
 Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-3
