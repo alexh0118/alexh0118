@@ -22,7 +22,7 @@ Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-
 
 ## Construido con 🛠️
 
-## Canal de Youtube
+## Canal de Youtube :tv:
 
 [Javier Henriquez](https://www.youtube.com/channel/UCz2kmzQzR7pmDeffjq23vDg/featured?view_as=subscriber)
 
