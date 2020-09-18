@@ -8,12 +8,12 @@ Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-
 ## Comenzando 🚀
 
 ### Lenguajes 
-<details open>
+
 <summary> <b>Programming Languages that I'm learning <b></summary>
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/-Jupyter%20Notebooks-c78f02?style=for-the-badge&logo=jupyter&logoColor=white"/>]()
 ### Instalación 🔧
 
 
