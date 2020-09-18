@@ -3,8 +3,6 @@ Que tal mi nombre es Javier Henriquez, curso la carrera de Ingeniería Mecatroni
  
 # Inteligencia Artificial (ULAT):dark_sunglasses:
 
-Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-3.
-
 🚀
 
 ## Lenguajes :zap:
@@ -20,6 +18,6 @@ Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-
 
 ## Autor✒️
 
-* **Javier Henriquez** - *Trabajo Inicial y documentacion* - [alexh0118](https://github.com/alexh0118)
+**Javier Henriquez**  [alexh0118](https://github.com/alexh0118)
 
 
