@@ -13,7 +13,7 @@ Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter%20Notebooks-c78f02?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-### Instalación 🔧
+## Instalación 🔧
 
 
 ## Despliegue 📦
