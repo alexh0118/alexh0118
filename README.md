@@ -1,7 +1,7 @@
 # Hola  👋
 
 
-#Inteligencia Artificial (ULAT)
+# Inteligencia Artificial (ULAT)
 
 Repositorios y archivos de la materia inteligencia artificial cuatrimestre 2020-3
 
