@@ -3,7 +3,7 @@ Que tal mi nombre es Javier Henriquez, curso la carrera de Ingeniería Mecatroni
  
 # Inteligencia Artificial (ULAT):dark_sunglasses:
 
-🚀
+Sede Central🚀
 
 ## Lenguajes y Herramientas :zap:
 
